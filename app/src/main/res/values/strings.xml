@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JesQuiz</string>
+    <string name="question_tag">Question</string>
+    <string name="button_correct">Correct</string>
+    <string name="button_incorrect">Incorrect</string>
+    <string name="button_next">next</string>
+    <string name="button_hint">Hint</string>
+    <string name="button_cheat">Cheat</string>
+    <string name="text_question">Question</string>
+    <string name="button_view_answer">Cheat</string>
+    <string name="button_back">Back</string>
+    <string name="text_cheat_answer">Cheating is Bad</string>
+    <string name="button_view_hint">Hint</string>
+    <string name="button_hintback">Back</string>
+    <string name="text_hintText">Do you really need a hint?</string>
+    <string name="text_mainQuestion">" is a Prime Number"</string>
+    <string name="text_Prime">" is a PrimeNumber"</string>
+    <string name="text_NotPrime">" is not a PrimeNumber"</string>
+    <string name="text_hint">Try doning Factorization</string>
+</resources>
